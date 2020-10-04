@@ -4,4 +4,4 @@ https://towardsdatascience.com/3-super-simple-projects-to-learn-natural-language
 
 Written in Python
 
-[!Classifier Results](https://raw.githubusercontent.com/MatthewBarrettUCD/Simple-NLP-Projects/main/images/classifierResults.PNG)
+![Classifier Results](https://raw.githubusercontent.com/MatthewBarrettUCD/Simple-NLP-Projects/main/images/classifierResults.PNG)
